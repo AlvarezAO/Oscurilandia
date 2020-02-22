@@ -1,5 +1,11 @@
 package game;
-
+/**
+ * Juego Oscurilandia La Secuela
+ * @author Álvaro Álvarez Olivares, Mirko Bravo Hidalgo, Yesenia Llanos Pérez, Natalia Ponce Ávila.
+ * @see https://github.com/AlvarezAO/Oscurilandia
+ * @version 20/02/2020
+ * 
+ */
 public class Huevo {
 	
 	private int posicionX;
